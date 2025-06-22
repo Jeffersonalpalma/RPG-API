@@ -1,2 +1,2 @@
-# RPG-API
-API from rpg app.
+# RpgApi
+API rpg.
